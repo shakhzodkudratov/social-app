@@ -1,3 +1,10 @@
+# Social app
+This is an implementation of [Social Dashboards UI Kit](https://ui8.net/ui8/products/social-dashboards-ui-kit) from UI8.net.
+
+Here I am trying to make a full working app with fancy animations.
+
+I choose T3 stack, because I want to write full-stack application using only Next.js.
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
